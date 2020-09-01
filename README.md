@@ -1,4 +1,4 @@
-# ETLProject-Candy-Dataset
+# ETL Analysis - Candy Dataset
 ## Objective
 Our group decided to create a database of popular Halloween candy and its nutritional information that could potentially be used to see if there is any correlation between nutritional content (i.e. grams of sugar, water content, or grams of protein) and candy popularity.
 
